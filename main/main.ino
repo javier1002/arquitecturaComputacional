@@ -1,4 +1,4 @@
-// include the library code:
+//  Alvaro Arroyo - Edinson Oviedo Martinez - Cristian Camilo Viveros
 #include <LiquidCrystal.h>
 #include <Keypad.h>
 #include <Servo.h>
